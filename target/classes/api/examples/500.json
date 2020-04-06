@@ -1,8 +1,0 @@
-{
-    "status": "failure",
-    "error": {
-        "errorCode": "500",
-        "errorType": "Technical",
-        "errorMessage": "Technical error with source system"
-    }
-}
